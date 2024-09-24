@@ -1,5 +1,5 @@
 <h3 align="left">Technologies:</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,cs,cpp,c,blender,autocad,github,git,figma,expressjs,html,java,javascript,mongodb,nodejs,postgresql,python,react,threejs,unity,vite&theme=dark&perline=15" alt="My Skills" /></a>
+<img src="https://skillicons.dev/icons?i=css,cs,cpp,c,blender,autocad,github,git,figma,expressjs,html,java,javascript,mongodb,nodejs,postgresql,python,react,threejs,unity,vite&theme=dark&perline=15" alt="My Skills" /></a>
 
 # Hi there! 👋 I'm Ritwik
 
