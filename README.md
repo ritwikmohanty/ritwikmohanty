@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer currently div
 - **Version Control (Git):** Leveraging GitHub for collaboration and version tracking.
 
 ### 🌱 Ongoing Projects:
-- **Hackathon Projects:** I'm part of exciting hackathon projects where I get to apply what I learn in real-world problem-solving.
+- **Smart India Hackathon (SIH) 2024:** I'm part of the SIH 2024, working on 'PlantVision,' a virtual herbal garden showcasing medicinal plants used in AYUSH. It includes 3D models, virtual tours, and interactive features to provide an immersive educational experience.
 - **UI/UX:** Experimenting with intuitive and responsive user interface designs.
 
 ### 💡 Technologies I’m Exploring:
