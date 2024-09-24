@@ -1,4 +1,5 @@
-![RITWIK ](https://github.com/user-attachments/assets/3068c48b-b861-45ec-a53b-e5d794818778)
+![RITWIK ](https://github.com/user-attachments/assets/23ee8c8f-3931-43d8-9fd1-c324d9ddb449)
+
 <h3 align="left">Technologies:</h3>
 <img src="https://skillicons.dev/icons?i=css,cs,cpp,c,blender,autocad,github,git,figma,expressjs,html,java,javascript,mongodb,nodejs,postgresql,python,react,threejs,unity,vite&theme=dark&perline=15" alt="My Skills" /></a>
 
