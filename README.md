@@ -1,32 +1,26 @@
-![RITWIK ](https://github.com/user-attachments/assets/23ee8c8f-3931-43d8-9fd1-c324d9ddb449)
+![RITWIK](https://github.com/user-attachments/assets/23ee8c8f-3931-43d8-9fd1-c324d9ddb449)
 
 <h3 align="left">Technologies:</h3>
-<img src="https://skillicons.dev/icons?i=css,cs,cpp,c,blender,autocad,github,git,figma,expressjs,html,java,javascript,mongodb,nodejs,postgresql,python,react,threejs,unity,vite&theme=dark&perline=15" alt="My Skills" /></a>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,redis,html,threejs,bash,blender,c,cpp,cs,css,cloudflare,codepen,discord,expressjs,fastapi,figma,firebase,git,github,arduino,java,javascript,materialui,mongodb,mysql,netlify,nodejs,notion,npm,postgresql,postman,react,replit,tailwindcss,sublime,autocad,typescript,unity,vscode,vercel,vite&theme=dark&perline=15)](https://skillicons.dev)
 
-# Hi there! 👋 I'm Ritwik
+# Greetings! 👋 I'm Ritwik
 
-Welcome to my GitHub profile! I'm an aspiring full-stack developer currently diving deep into the **MERN stack** (MongoDB, Express, React, Node.js) and exploring the vast world of web development. As I progress, I'm rapidly learning and adding new skills to my toolbox.
+Welcome to my GitHub profile! I’m a dedicated full-stack developer with a strong focus on the **MERN stack** and a passion for exploring cutting-edge technologies like **Web3**. Alongside, I actively engage in **competitive programming**, honing my problem-solving skills and algorithmic expertise to build efficient and scalable solutions.
 
-### 👨‍💻 What I'm Currently Learning:
-- **MERN Stack:** Building dynamic, full-stack web applications.
-- **JavaScript:** Enhancing my JavaScript skills with modern practices.
+### 🛠️ What I'm Currently Learning:
+- **Web3 Development:** Exploring blockchain technologies, smart contracts, and decentralized applications (dApps) to shape the future of the internet.
+- **Competitive Programming:** Strengthening my algorithmic and data structure proficiency through platforms like LeetCode, Codeforces, and HackerRank.
 
-### 🌱 Ongoing Projects:
-- **Smart India Hackathon (SIH) 2024:** I'm part of the SIH 2024, working on 'PlantVision,' a virtual herbal garden showcasing medicinal plants used in AYUSH. It includes 3D models, virtual tours, and interactive features to provide an immersive educational experience.
+### 🌟 Current Projects:
+- **Web3 Initiatives:** Experimenting with decentralized technologies to build secure, transparent, and user-centric applications.
 
 ### 💡 Technologies I’m Exploring:
-- **Three.js:** Creating 3D visualizations to bring interactive elements into my web applications.
-- **React Hooks:** Building reusable components and managing state in a clean, modern way.
-
-### 🚀 What's Next for Me:
-- Dive deeper into backend development with **Node.js** and **Express**.
-- Continue building projects that merge my learning in full-stack development with innovative ideas.
-
+- **Three.js:** Developing interactive 3D visualizations to enhance user experiences in web applications.
+- **Solidity & Ethereum:** Learning smart contract development to integrate blockchain functionality into projects.
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritwikmohanty&theme=dark-minimalist" alt="GitHub Streak" /></a>
 
-
-Thanks for checking out my GitHub! I’m always open to collaboration and learning new things, so feel free to reach out!
+Thank you for visiting my GitHub! I’m enthusiastic about collaborating on innovative projects and continuously expanding my skill set. Feel free to connect with me for opportunities or discussions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
