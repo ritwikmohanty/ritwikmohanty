@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a dedicated full-stack developer with a stro
 
 ### 🛠️ What I'm Currently Learning:
 - **Web3 Development:** Exploring blockchain technologies, smart contracts, and decentralized applications (dApps) to shape the future of the internet.
-- **Competitive Programming:** Strengthening my algorithmic and data structure proficiency through platforms like LeetCode, Codeforces, and HackerRank.
+- **Competitive Programming:** Strengthening my algorithmic and data structure proficiency through platforms like Codeforces and Codechef.
 
 ### 🌟 Current Projects:
 - **Web3 Initiatives:** Experimenting with decentralized technologies to build secure, transparent, and user-centric applications.
