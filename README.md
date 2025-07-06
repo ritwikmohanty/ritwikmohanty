@@ -1,7 +1,7 @@
 ![RITWIK](https://github.com/user-attachments/assets/23ee8c8f-3931-43d8-9fd1-c324d9ddb449)
 
 <h3 align="left">Technologies:</h3>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,redis,html,threejs,bash,blender,c,cpp,cs,css,cloudflare,codepen,discord,expressjs,fastapi,figma,firebase,git,github,arduino,java,javascript,materialui,mongodb,mysql,netlify,nodejs,notion,npm,postgresql,postman,react,replit,tailwindcss,sublime,autocad,typescript,unity,vscode,vercel,vite&theme=dark&perline=15)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nextjs,redis,html,threejs,bash,blender,c,cpp,cs,css,cloudflare,codepen,discord,expressjs,fastapi,figma,firebase,git,github,arduino,java,javascript,materialui,mongodb,mysql,netlify,nodejs,notion,npm,postgresql,postman,react,replit,tailwindcss,sublime,autocad,typescript,unity,vscode,vercel,vite&theme=dark&perline=15" alt="My Skills" /></a>
 
 # Greetings! 👋 I'm Ritwik
 
@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I’m a dedicated full-stack developer with a stro
 ### 💡 Technologies I’m Exploring:
 - **Three.js:** Developing interactive 3D visualizations to enhance user experiences in web applications.
 - **Solidity & Ethereum:** Learning smart contract development to integrate blockchain functionality into projects.
+  
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritwikmohanty&theme=dark-minimalist" alt="GitHub Streak" /></a>
 
