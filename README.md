@@ -1,30 +1,24 @@
-![RITWIK](https://github.com/user-attachments/assets/23ee8c8f-3931-43d8-9fd1-c324d9ddb449)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23ee8c8f-3931-43d8-9fd1-c324d9ddb449" alt="RITWIK">
+</p>
 
-<h3 align="left">Technologies:</h3>
-<img src="https://skillicons.dev/icons?i=nextjs,redis,html,threejs,bash,blender,c,cpp,cs,css,cloudflare,codepen,discord,expressjs,fastapi,figma,firebase,git,github,arduino,java,javascript,materialui,mongodb,mysql,netlify,nodejs,notion,npm,postgresql,postman,react,replit,tailwindcss,sublime,autocad,typescript,unity,vscode,vercel,vite&theme=dark&perline=15" alt="My Skills" /></a>
+<h1 align="center">Hi, I'm Ritwik 👋</h1>
+<h3 align="center">Passionate about transforming ideas into innovative software solutions.</h3>
 
-# Greetings! 👋 I'm Ritwik
+<br>
 
-Welcome to my GitHub profile! I’m a dedicated full-stack developer with a strong focus on the **MERN stack** and a passion for exploring cutting-edge technologies like **Web3**. Alongside, I actively engage in **competitive programming**, honing my problem-solving skills and algorithmic expertise to build efficient and scalable solutions.
+* 🌱 I'm currently pursuing my B.Tech in Information Technology at **K.J. Somaiya College of Engineering**.
+* 💻 Proficient in full-stack development, specializing in the **MERN stack**.
+* 🚀 Deeply immersed in **Competitive Programming** and algorithmic problem-solving.
+* 👀 Currently architecting a new platform for the Competitive Programming community. (Something's cooking...)
+* ⛓️ Expanding my expertise into **Web3**, **Solidity**, and **Smart Contracts**.
+<br>
 
-### 🛠️ What I'm Currently Learning:
-- **Web3 Development:** Exploring blockchain technologies, smart contracts, and decentralized applications (dApps) to shape the future of the internet.
-- **Competitive Programming:** Strengthening my algorithmic and data structure proficiency through platforms like Codeforces and Codechef.
+<h3 align="center">Technologies & Tools:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,bash,blender,c,cloudflare,cpp,cs,css,docker,expressjs,fastapi,figma,firebase,flask,git,github,html,java,javascript,kubernetes,materialui,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,postgresql,python,pytorch,react,redis,replit,solidity,sublime,tailwindcss,threejs,typescript,unity,vercel,vite,vscode,nginx,supabase&theme=dark&perline=15" alt="My Skills" /></a>
+</p>
 
-### 🌟 Current Projects:
-- **Web3 Initiatives:** Experimenting with decentralized technologies to build secure, transparent, and user-centric applications.
-
-### 💡 Technologies I’m Exploring:
-- **Three.js:** Developing interactive 3D visualizations to enhance user experiences in web applications.
-- **Solidity & Ethereum:** Learning smart contract development to integrate blockchain functionality into projects.
-  
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ritwikmohanty&theme=dark-minimalist" alt="GitHub Streak" /></a>
-
-Thank you for visiting my GitHub! I’m enthusiastic about collaborating on innovative projects and continuously expanding my skill set. Feel free to connect with me for opportunities or discussions!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ritwik-mohanty-915699297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritwik-mohanty-915699297/" height="30" width="40" /></a>
-<a href="https://instagram.com/ritwikmohanty3900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritwikmohanty3900" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ritwikmohanty&theme=dark-minimalist" alt="GitHub Streak" />
 </p>
